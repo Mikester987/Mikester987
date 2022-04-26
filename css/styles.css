@@ -2,10 +2,12 @@ header {
     padding: 30px;
     background-image: linear-gradient(to right, #252526, #3046C5, #ef0e0e);
     color: white;
+    text-align: center;
     text-transform: uppercase;
     font-family:'Times New Roman', Times, serif;
 }
 
 header p {
-    font-size: small;
+    font-size: smaller;
+    text-align: right;
 }
