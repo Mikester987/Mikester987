@@ -1,13 +1,35 @@
 header {
     padding: 30px;
-    background-image: linear-gradient(to right, #252526, #3046C5, #ef0e0e);
+    background-image: linear-gradient(to top, #252526, #3046C5, #ef0e0e);
     color: white;
     text-align: center;
     text-transform: uppercase;
     font-family:'Times New Roman', Times, serif;
+    border: solid;
+    border-color: black;
+}
+
+header h1 {
+    font-size: xx-large;
 }
 
 header p {
-    font-size: smaller;
+    font-size: small;
     text-align: right;
+    font-style: italic;
+    color: white;
+}
+
+nav {
+    box-align: center;
+}
+
+footer {
+    background-color: lightgrey;
+    text-align: center;
+    font-size: small;
+}
+
+a {
+    color: white;
 }
