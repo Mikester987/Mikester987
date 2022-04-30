@@ -30,6 +30,7 @@ footer {
     font-size: small;
 }
 
-a {
+a, a:hover {
     color: white;
+    text-decoration: none;
 }
