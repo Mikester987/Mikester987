@@ -24,13 +24,25 @@ nav {
     box-align: center;
 }
 
+h5 {
+    font-style: italic;
+    font-size: small;
+}
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+    text-align: center;
+}
+
 footer {
     background-color: lightgrey;
     text-align: center;
     font-size: small;
+    color: black;
 }
 
-a, a:hover {
-    color: white;
-    text-decoration: none;
+footer a {
+    color: black;
 }
