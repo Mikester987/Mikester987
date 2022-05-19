@@ -20,7 +20,7 @@ header p {
     color: white;
 }
 
-header a, header a hover {
+header a, header a:hover {
     color: white;
     text-decoration: none;
 
