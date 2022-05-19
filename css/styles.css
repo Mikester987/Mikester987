@@ -20,6 +20,17 @@ header p {
     color: white;
 }
 
+header a, header a hover {
+    color: white;
+    text-decoration: none;
+
+}
+
+a, a hover {
+    text-decoration: none;
+    color: black;
+}
+
 nav {
     box-align: center;
 }
