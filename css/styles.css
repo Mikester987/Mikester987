@@ -1,6 +1,9 @@
 header {
     padding: 30px;
-    background-image: linear-gradient(to top, #252526, #3046C5, #ef0e0e);
+    background-image: url(/content/208534747_10225364434754473_3824451612720563048_n.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     color: white;
     text-align: center;
     text-transform: uppercase;
@@ -24,6 +27,15 @@ header a, header a:hover {
     color: white;
     text-decoration: none;
 
+}
+
+#container {
+    text-align: center;
+}
+
+ul.workhistory {
+    list-style-type:  none;
+    padding: 0;
 }
 
 a, a hover {
