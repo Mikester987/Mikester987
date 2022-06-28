@@ -2,7 +2,7 @@
   "name": "gitResume",
   "version": "1.0.0",
   "description": "This is a website developed to demonstrate Michael Barba's coding abilities.",
-  "main": "https://mikester987.github.io/Resume/index.html",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run lite",
